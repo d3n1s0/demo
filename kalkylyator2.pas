@@ -1,4 +1,4 @@
-﻿Program aye;
+﻿Program calculator;
   var a,b:real;
     name:string;
     ans:boolean;
