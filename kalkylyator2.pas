@@ -64,5 +64,6 @@
          writeln();
          writeln('Конец, спасибо за использование программы!');
          writeln();
+         Writeln("Удачи");
        end;
     end.
